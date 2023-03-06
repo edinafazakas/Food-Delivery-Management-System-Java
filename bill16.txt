@@ -1,0 +1,6 @@
+Order #16
+Client id: c2
+Order date: 27/05/2022 09:18:06
++ Menu Item: Shrimp Sates with Spiced Pistachio Chutney
++ Menu Item: menu2
+Total Price: 78

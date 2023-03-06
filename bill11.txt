@@ -1,0 +1,5 @@
+Order #11
+Client id: null
+Order date: 26/05/2022 22:44:20
++ Menu Item: Toasted Corn Crisps
+Total Price: 66

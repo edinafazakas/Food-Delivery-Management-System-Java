@@ -1,0 +1,6 @@
+Order #14
+Client id: c2
+Order date: 26/05/2022 22:59:38
++ Menu Item: Coriander-Herb Spice Rub
++ Menu Item: Classic Salad
+Total Price: 100

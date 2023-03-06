@@ -1,0 +1,7 @@
+Order #3
+Client id: null
+Order date: 23/05/2022 23:26:44
++ Menu Item: Beef Stock 
++ Menu Item: menu10
++ Menu Item: Hot-and-Sour Cabbage Salad 
+Total Price: 116

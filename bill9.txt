@@ -1,0 +1,5 @@
+Order #9
+Client id: null
+Order date: 24/05/2022 00:17:15
++ Menu Item: menu6
+Total Price: 163

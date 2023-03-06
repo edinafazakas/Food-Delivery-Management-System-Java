@@ -1,0 +1,6 @@
+Order #8
+Client id: null
+Order date: 24/05/2022 00:16:09
++ Menu Item: Coriander-Herb Spice Rub
++ Menu Item: menu10
+Total Price: 112

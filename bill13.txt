@@ -1,0 +1,6 @@
+Order #13
+Client id: c3
+Order date: 26/05/2022 22:51:42
++ Menu Item: Classic Salad
++ Menu Item: menu3
+Total Price: 49

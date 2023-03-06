@@ -1,0 +1,6 @@
+Order #12
+Client id: c3
+Order date: 26/05/2022 22:48:54
++ Menu Item: Coriander-Herb Spice Rub
++ Menu Item: menu3
+Total Price: 51

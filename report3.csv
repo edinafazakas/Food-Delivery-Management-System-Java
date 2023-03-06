@@ -1,0 +1,9 @@
+Orders with clients who ordered more than 2 times so far and the amount of order is higher than 80:
+
+2,c1,22/05/2022 12:20:48,103,menu2,
+3,c2,23/05/2022 23:26:44,116,Beef Stock,menu10,Hot-and-Sour Cabbage Salad ,
+6,c2,23/05/2022 23:44:50,82,Potato Samosa Tartlets,
+8,c1,24/05/2022 00:16:09,112,Coriander-Herb Spice Rub,menu10,
+9,c2,24/05/2022 00:17:15,163,menu6,
+10,c2,24/05/2022 00:18:41,176,menu10,Toasted Corn Crisps,Ethiopian Spice Tea,
+14,c2,26/05/2022 22:59:38,100,Coriander-Herb Spice Rub,Classic Salad,

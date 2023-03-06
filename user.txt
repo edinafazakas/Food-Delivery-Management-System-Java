@@ -1,0 +1,7 @@
+Username,Password,Name,Address
+a,1234,David,Cluj
+client,c,1234,Vasile,Cluj
+client,c1,1234,Maria,Sibiu
+client,c2,1234,Marius,Constanta
+client,c3,1234,Alexandru,Cluj
+a1,1234,Marta,Targu Jiuclient,c4,1234,Adriana,Vaslui

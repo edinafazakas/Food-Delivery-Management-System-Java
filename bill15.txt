@@ -1,0 +1,5 @@
+Order #15
+Client id: c1
+Order date: 27/05/2022 08:24:44
++ Menu Item: Hot-and-Sour Cabbage Salad
+Total Price: 29

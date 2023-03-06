@@ -1,0 +1,5 @@
+Order #6
+Client id: null
+Order date: 23/05/2022 23:44:50
++ Menu Item: Potato Samosa Tartlets
+Total Price: 82

@@ -1,0 +1,7 @@
+Order #10
+Client id: null
+Order date: 24/05/2022 00:18:41
++ Menu Item: menu10
++ Menu Item: Toasted Corn Crisps
++ Menu Item: Ethiopian Spice Tea
+Total Price: 176
